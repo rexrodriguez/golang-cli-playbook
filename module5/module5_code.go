@@ -1,5 +1,6 @@
 package module5
 
+/*
 import (
 	"fmt"
 	"net/http"
@@ -14,3 +15,4 @@ func GetExampleDotCom() {
 
 	defer resp.Body.Close()
 }
+*/
