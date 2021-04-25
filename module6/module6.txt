@@ -1,5 +1,4 @@
 package module6 // import "."
 
 func FunctionForModule6GoDoc()
-    This is the required comment
-
+    this is a comment
