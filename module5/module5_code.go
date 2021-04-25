@@ -12,6 +12,5 @@ func GetExampleDotCom() {
 	if err != nil {
 		fmt.Println("something went wrong")
 	}
-
 	defer resp.Body.Close()
 }
